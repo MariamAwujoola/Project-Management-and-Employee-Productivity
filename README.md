@@ -18,7 +18,7 @@
    ### DAX Calculations
    - Total Billable Revenue was computed as the sum of billable hours multiplied by the hourly rate, totaling $279.22k.
    - Average Productivity was measured as total hours worked divided by the employee count, yielding a productivity rate 101.36%
-   - Total Overdue Hours across departments amounted to 10k hours, indicating significat project delays.
+   - Total Overdue Hours across departments amounted to 10k hours, indicating significant project delays.
   
      ### Dashboard Insights
 
